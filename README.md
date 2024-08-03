@@ -2,7 +2,7 @@
 
 I'm Ruben, a software developer which has fallen into the NixOS rabbithole in his freetime.
 
-ruben [at] hoenle.xzy
+ruben [at] hoenle.xyz
 
 
 <!--
