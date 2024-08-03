@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Ruben, a software developer which has fallen into the NixOS rabbithole in his freetime.
+
+ruben [at] hoenle.xzy
+
 
 <!--
 **rubenhoenle/rubenhoenle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
