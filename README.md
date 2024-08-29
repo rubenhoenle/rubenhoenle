@@ -17,7 +17,7 @@ ruben [at] hoenle.xyz
 
 
 [website]: https://hoenle.xyz
-[matrix]: https://matrix.to/#/@ruben_h:matrix.org
+[matrix]: https://matrix.to/#/@ruben:aalen.space
 [mail]: mailto:ruben@hoenle.xyz
 [youtube]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
