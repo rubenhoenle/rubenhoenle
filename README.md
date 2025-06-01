@@ -2,7 +2,9 @@
 
 I'm Ruben, a software developer which has fallen into the NixOS rabbithole in his freetime.
 
-[web][website] | [youtube][youtube] | [matrix][matrix] | [mail][mail]
+**Most of my projects are in the process of beeing migrated to [Sourcehut][sourcehut]**
+
+[web][website] | [sourcehut][sourcehut] | [youtube][youtube] | [matrix][matrix] | [mail][mail]
 
 <!--
 [<img align="left" alt="hoenle.xyz" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,6 +22,7 @@ ruben [at] hoenle.xyz
 [matrix]: https://matrix.to/#/@ruben:aalen.space
 [mail]: mailto:ruben@hoenle.xyz
 [youtube]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[sourcehut]: https://git.sr.ht/~rubenhoenle
 
 <!--
 **rubenhoenle/rubenhoenle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
