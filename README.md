@@ -2,7 +2,7 @@
 
 I'm Ruben, a software developer which has fallen into the NixOS rabbithole in his freetime.
 
-**Most of my projects are in the process of beeing migrated to [Sourcehut][sourcehut]**
+**Most of my projects are in the process of beeing migrated to [Sourcehut][sourcehut]**.
 
 [web][website] | [sourcehut][sourcehut] | [youtube][youtube] | [matrix][matrix] | [mail][mail]
 
